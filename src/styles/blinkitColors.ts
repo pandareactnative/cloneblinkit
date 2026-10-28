@@ -1,0 +1,17 @@
+export default {
+  white: '#ffffff',
+  ink: '#202522',
+  muted: '#68717e',
+  light: '#f7f8fa',
+  border: '#e6e8eb',
+  green: '#31850e',
+  greenDark: '#246b0b',
+  greenLight: '#ecfff0',
+  yellow: '#f7d44d',
+  blue: '#2773e6',
+  teal: '#08475e',
+  tealLight: '#0c5670',
+  wine: '#83002f',
+  cream: '#fffbec',
+  gold: '#cfae49',
+};

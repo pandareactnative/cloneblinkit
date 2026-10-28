@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/myntra_splash_background" />
+    <item android:gravity="center" android:width="288dp" android:height="288dp">
+        <bitmap android:src="@drawable/myntra_splash_logo" android:gravity="fill" />
+    </item>
+</layer-list>
